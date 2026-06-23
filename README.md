@@ -81,6 +81,17 @@ The following analyses were performed:
 
 ---
 
+## Pair Plot
+
+![Pair Plot](screenshots/Screenshot_2_PairPlot(1).png)
+
+## Confusion Matrix
+
+![Confusion Matrix](screenshots/Screenshot_3_ConfusionMatrix.png)
+
+---
+
+
 ## 🤖 Machine Learning Models Used
 
 ### 1. Logistic Regression
